@@ -12,9 +12,9 @@
 {
   "name": "sor-hxr",
   "role": "Full-Stack Developer & Security Engineer",
-  "focus": ["Web Development", "Network Security", "Penetration Testing"],
-  "weapon": "Keyboard (inverted spear energy)",
-  "technique": "None. Pure skill.",
+  "focus": ["Web & App Development", "Network Security", "Penetration Testing"],
+  "weapon": "Keyboard",
+  "technique": "Heavenly Restriction. Pure skill.",
   "status": "Currently hunting bugs, not sorcerers"
 }
 ```
@@ -23,33 +23,66 @@
 ##  Arsenal
 <div align="center">
 
-**Languages**
+**Languages & Dev Toolkit**
 
-![](https://img.shields.io/badge/-Python-1a1a1a?style=for-the-badge&logo=python&logoColor=8b0000)
+![](https://img.shields.io/badge/-Git-1a1a1a?style=for-the-badge&logo=git&logoColor=8b0000)
+![](https://img.shields.io/badge/-GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=8b0000)
+![](https://img.shields.io/badge/-C-1a1a1a?style=for-the-badge&logoColor=8b0000)
 ![](https://img.shields.io/badge/-C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=8b0000)
+![](https://img.shields.io/badge/-Bash-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=8b0000)
+![](https://img.shields.io/badge/-Assembly-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=8b0000)
+![](https://img.shields.io/badge/-HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=8b0000)
+![](https://img.shields.io/badge/-CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=8b0000)
 ![](https://img.shields.io/badge/-JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=8b0000)
-![](https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=8b0000)
+![](https://img.shields.io/badge/-Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=8b0000)
+![](https://img.shields.io/badge/-VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=8b0000)
+![](https://img.shields.io/badge/-Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=8b0000)
+![](https://img.shields.io/badge/-Kubernetes-1a1a1a?style=for-the-badge&logo=kubernetes&logoColor=8b0000)
+![](https://img.shields.io/badge/-Python-1a1a1a?style=for-the-badge&logo=python&logoColor=8b0000)
 
 **Security & Networking**
 
-![](https://img.shields.io/badge/-Kali_Linux-1a1a1a?style=for-the-badge&logo=kalilinux&logoColor=8b0000)
-![](https://img.shields.io/badge/-Cisco_Packet_Tracer-1a1a1a?style=for-the-badge&logo=cisco&logoColor=8b0000)
+![](https://img.shields.io/badge/-Burp_Suite-1a1a1a?style=for-the-badge&logo=burpsuite&logoColor=8b0000)
+![](https://img.shields.io/badge/-Gobuster-1a1a1a?style=for-the-badge&logoColor=8b0000)
 ![](https://img.shields.io/badge/-Wireshark-1a1a1a?style=for-the-badge&logo=wireshark&logoColor=8b0000)
-![](https://img.shields.io/badge/-Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=8b0000)
+![](https://img.shields.io/badge/-Kali_Linux-1a1a1a?style=for-the-badge&logo=kalilinux&logoColor=8b0000)
+![](https://img.shields.io/badge/-Metasploit-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Nmap-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-pfSense-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Cisco_Packet_Tracer-1a1a1a?style=for-the-badge&logo=cisco&logoColor=8b0000)
+![](https://img.shields.io/badge/-Cloudflare-1a1a1a?style=for-the-badge&logo=cloudflare&logoColor=8b0000)
 
-**Data & Infra**
+**OSINT & Recon**
+
+![](https://img.shields.io/badge/-Shodan-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Splunk-1a1a1a?style=for-the-badge&logo=splunk&logoColor=8b0000)
+![](https://img.shields.io/badge/-theHarvester-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Recon--ng-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Maltego-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Amass-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Sublist3r-1a1a1a?style=for-the-badge&logoColor=8b0000)
+
+**Databases**
 
 ![](https://img.shields.io/badge/-MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=8b0000)
-![](https://img.shields.io/badge/-Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=8b0000)
-![](https://img.shields.io/badge/-Git-1a1a1a?style=for-the-badge&logo=git&logoColor=8b0000)
+![](https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=8b0000)
+
+**Cracking & Forensics**
+
+![](https://img.shields.io/badge/-John_The_Ripper-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Hashcat-1a1a1a?style=for-the-badge&logo=hashcat&logoColor=8b0000)
+![](https://img.shields.io/badge/-Hydra-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Aircrack--ng-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-Autopsy-1a1a1a?style=for-the-badge&logoColor=8b0000)
+![](https://img.shields.io/badge/-IDA_Pro-1a1a1a?style=for-the-badge&logoColor=8b0000)
 </div>
 <br>
 
-## 📊 Stats — Dark Domain
+##  Most Used Languages
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sor-hxr&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=e60000&icon_color=e60000&text_color=cfcfcf&ring=8b0000"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sor-hxr&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=e60000&text_color=cfcfcf"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sor-hxr&hide_border=true&background=0D0D0D&stroke=8b0000&ring=e60000&fire=e60000&currStreakLabel=e0e0e0"/>
+<!-- Generated by a GitHub Action into profile/top-langs.svg — see notes below -->
+<img height="200" src="./profile/top-langs.svg" alt="most used languages"/>
 </div>
 <br>
 
@@ -60,14 +93,6 @@
 </div>
 <br>
 
-##  Trophy Case
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sor-hxr&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
-</div>
-<br>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=sor-hxr&color=8b0000&style=for-the-badge&label=PROFILE+VIEWS)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:1a1a1a&height=120&section=footer"/>
 </div>
