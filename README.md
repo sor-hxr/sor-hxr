@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:8b0000&height=200&section=header&text=SOR%20HARISA&fontSize=45&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=حارثه%20سور&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:8b0000&height=200&section=header&text=SOR%20HXRISA&fontSize=45&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=حارثه%20سور&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="./toji-cropped.png" width="140" style="margin-right:-60px; position:relative; z-index:1;"/><a href="https://github.com/sor-hxr">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=500&color=B22222&center=true&vCenter=true&width=600&lines=Security+Analyst;Full+Stack+Security+Engineer;Penetration+Tester" />
