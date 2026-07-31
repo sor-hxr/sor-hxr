@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=e60000&text_color=cfcfcf&langs_count=10
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=e60000&text_color=cfcfcf&langs_count=10
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit card
